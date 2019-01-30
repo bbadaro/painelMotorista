@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'logo';
+    src: url('../../assets/century/CenturyGothicV1.woff');
+
+}
+p{
+    color: #626262;
+}
+
+.paineldecargas {
+    font-family: logo;
+}
+.text-master{
+    color: #1A1A1A;
+}
+.text-justify{
+    text-align: justify;
+}
+
+.container {
+    background-color: #fff;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.SlideImage img{
+    width: 200px;    
+}
+.skipIntro {
+    text-align: right;
+    padding: 15px;
+}
